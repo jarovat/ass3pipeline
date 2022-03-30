@@ -1,4 +1,4 @@
-name: ENV - Tutorial Frontend Deploy
+name: DEV - Tutorial Frontend Deploy
 
 on:
   repository_dispatch:
