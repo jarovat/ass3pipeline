@@ -7,7 +7,7 @@ on:
 
 env:
   REPOSITORY: "jarovat/ass3frontend"
-  APP_NAME: ass3frontend
+  APP_NAME: jaruvat-tutorial-frontend
   AZURE_WEB_APP_NAME: app-jaruvat-tutorial-frontend-dev-001
   CONTAINER_REPOSITORY: "acrjaruvattutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
