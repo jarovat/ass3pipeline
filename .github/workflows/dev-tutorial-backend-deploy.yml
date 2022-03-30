@@ -43,8 +43,13 @@ jobs:
         app-settings-json: |
           [
             {
-              "name": "VUE_APP_ENPOINT_API_BACKEND",
-              "value": "https://app-jaruvat-tutorial-backend-dev-001.azurewebsites.net/api",
+              "name": "MONGODB_CONNECTION_STRING",
+              "value": "mongodb://cosmos-jaruvat-tutorial-dev-001:n1fPvSc2TOCpm7vSKK9Fyz2tpxLmjudYrcYcfgQkcSyAMBJwwxdJKHeOAvO5obGnNlzCWt0UwYVA5gHGWqsQpg==@cosmos-jaruvat-tutorial-dev-001.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@cosmos-jaruvat-tutorial-dev-001@",
+              "slotSetting": false
+            },
+            {
+              "name": "PORT",
+              "value": "80",
               "slotSetting": false
             }
           ]
