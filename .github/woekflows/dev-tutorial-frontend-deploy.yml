@@ -2,7 +2,7 @@ name: DEV - Tutorial Frontend Deploy
 
 on:
   repository_dispatch:
-    types: [jaruvat-tutorial-frontend-cd-dev]
+    types: [ass3frontend-cd-dev]
   workflow_dispatch:
 
 env:
