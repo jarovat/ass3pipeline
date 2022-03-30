@@ -1,4 +1,4 @@
-name: DEV - Tutorial Frontend Deploy
+name: eee - Tutorial Frontend Deploy
 
 on:
   repository_dispatch:
